@@ -1,7 +1,7 @@
-package grupointegrado.br.JavaSpring.Aluno.repository;
+package grupointegrado.br.JavaSpring.Aluno.Repository;
 
-import grupointegrado.br.JavaSpring.Aluno.Models.Aluno;
+import grupointegrado.br.JavaSpring.Aluno.Models.AlunoEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface AlunoEntity extends JpaRepository<Aluno, Integer> {
+public interface AlunoRepository extends JpaRepository<AlunoEntity, Integer> {
 }
