@@ -3,8 +3,8 @@ Feature Based Modular Code
 ##### Referência: https://medium.com/elca-it/feature-based-modular-code-organization-in-java-e4b611d6c103
 
 #### Stack
-Language: Java
-Framework: Spring-boot
+- Language: Java
+- Framework: Spring-boot
 
 
 
